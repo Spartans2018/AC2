@@ -1,0 +1,21 @@
+<<!DOCTYPE html>
+<html>
+<head>
+<meta charset "utf-8">
+<title> AC </title>
+</head>
+
+<body>
+  <h1>TABELA CAMPEONATO BRASILEIRO</h1>
+    <table> 
+    
+    <table border='1'>
+           <tr>
+	      <th>COLOCAÇÃO</th>
+              <td colspan="5">CLUBES</td>
+                  </tr>
+
+</table>
+
+</body>
+</html>
